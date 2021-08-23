@@ -8,4 +8,4 @@
 ## Long-Term Goal
 
 - Write `paper` of which topic is related to `Deep-Learning`
-- Share `NLP project` on Github, which is referenced by Deep-Learning programmers
+- Share `NLP project` on Github, for which other enthusiastic Deep-Learning programmers
